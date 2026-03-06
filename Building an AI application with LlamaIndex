@@ -1,0 +1,12 @@
+Chatbot for movie recommendation as user demand, ex- show me some horror movies. 
+
+
+Step 1: Installing Required Packages and Dependencies
+Step 2: Importing Required Libraries
+Step 3: Setting Up the Models and Embeddings
+Step 4 Loading Data from CSV
+Step 5: Document Creation and Indexing
+Step 6: User Interaction Loop
+Step 7: Querying and Formatting Recommendations
+Step 8: Display the Result
+
